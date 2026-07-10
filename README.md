@@ -58,9 +58,8 @@ aman@dev:~$ ▊
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amandubey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com?user=amandubey&theme=tokyonight&hide_border=true&background=0d1117" height="165" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=imunreal7&theme=tokyonight&hide_border=true&background=0d1117" height="165" alt="streak" />
 
-<img src="https://komarev.com/ghpvc/?username=amandubey&style=flat&color=79c0ff&label=profile+views" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=imunreal7&style=flat&color=79c0ff&label=profile+views" alt="profile views" />
 
 </div>
