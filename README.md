@@ -1,4 +1,15 @@
-`````````````````````````````````````text
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=79C0FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Aman+Dubey;Lead+Software+Engineer;I+turn+chai+into+code" alt="typing intro" />
+
+</div>
+
+`````````````````````````````````````console
+ ● ● ●                        aman@dev: ~ (zsh)
+────────────────────────────────────────────────────────────────────────────────
+
+aman@dev:~$ whoami
+
                                      i":~'''',;"
                                   ;~``````````````,
                                  (',''',''``````````;
@@ -31,4 +42,25 @@
      ;",!!!;;:    `"k|(kkkk%%lkk@@j|  @@@@:```````````````````````````````````
     "!,,ii!!:"   ``(ljk((kk%k(klg@!% @@@@j````````````````````````````````````
     ','"";;!,    `;k|(((kkkk(k%lgk| @@@@g,```````''```````````````````````````
+
+aman@dev:~$ cat ~/.profile
+  role      →  Lead Software Engineer
+  currently →  building things that scale, breaking things that don't
+  fuel      →  chai > coffee
+
+aman@dev:~$ history | tail -3
+  9997  git push origin main --force-with-lease
+  9998  npm run build && echo "phew"
+  9999  claude "make my README cooler"
+
+aman@dev:~$ ▊
 `````````````````````````````````````
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amandubey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=amandubey&theme=tokyonight&hide_border=true&background=0d1117" height="165" alt="streak" />
+
+<img src="https://komarev.com/ghpvc/?username=amandubey&style=flat&color=79c0ff&label=profile+views" alt="profile views" />
+
+</div>
